@@ -128,7 +128,3 @@ FDL-001 estimates the nominal risk-free rate from the same market data. FDL-002 
 ## Disclaimer
 
 This project is for educational and analytical purposes. It is not investment advice and does not replace official reference rates or official inflation statistics.
-
-## License
-
-Add a license of your choice (for example MIT) as a `LICENSE` file.
